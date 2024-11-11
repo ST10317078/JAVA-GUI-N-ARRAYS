@@ -1,0 +1,6 @@
+TRAVEL LOG
+*******************************************
+Destination 1: Capetown,
+Desinaton 2: Capetown,
+Travel By: Train
+*******************************************
